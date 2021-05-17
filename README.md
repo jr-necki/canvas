@@ -14,5 +14,11 @@
 ### 7. 파일(불러오기,새로만들기,저장하기,다른이름으로 저장하기)
 ### 8. 프린트하기
 # ✨화면
-아 또 이미지가 안올라가네...-_-
-아 깜빡햇다..
+### [도형그리기& 텍스트]
+<img width=400 src="https://user-images.githubusercontent.com/70804578/118508719-65f67880-b76a-11eb-862b-6836a5a6b2e0.png"/>
+
+### [색상 설정&선 굵기]
+<img width=400 src="https://user-images.githubusercontent.com/70804578/118509337-e5844780-b76a-11eb-9bc2-a81542e1921a.png"/>
+
+### [도형움직이기]
+<img width=400 src="https://user-images.githubusercontent.com/70804578/118509580-1e242100-b76b-11eb-9f83-1c08ca4613b7.png"/>
