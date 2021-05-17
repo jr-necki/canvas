@@ -25,5 +25,16 @@
 <img width=200 src="https://user-images.githubusercontent.com/70804578/118510444-ed90b700-b76b-11eb-8ddc-4efcbdf515d6.png"/>
 </div>
 색을 설정하여 선이나 면을 채울 수 있습니다. 슬라이더로 선의 굵기를 표현할 수 있습니다.<br></br>
+
 ### [도형움직이기]
 <img width=400 src="https://user-images.githubusercontent.com/70804578/118509580-1e242100-b76b-11eb-9f83-1c08ca4613b7.png"/>
+
+### [테마 설정]
+<div>
+<img width=200 src="https://user-images.githubusercontent.com/70804578/118510891-5aa44c80-b76c-11eb-86bf-883c4435486f.png"/>
+<img width=200 src="https://user-images.githubusercontent.com/70804578/118511046-81628300-b76c-11eb-8eb8-8219ac7c91cf.png"/>
+<img width=200 src="https://user-images.githubusercontent.com/70804578/118511225-a8b95000-b76c-11eb-9251-d79b0793078f.png"/>
+</div>
+
+
+
